@@ -111,6 +111,4 @@ dependencies:
   - zipp=3.3.1=py_0
   - zlib=1.2.11=vc14h1cdd9ab_1
   - zstd=1.4.9=h19a0ad4_0
-  - pip:
-    - toml==0.10.2
 prefix: C:\Users\USER\anaconda3\envs\termdepo
